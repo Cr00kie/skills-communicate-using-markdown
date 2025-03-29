@@ -11,3 +11,8 @@ if(h == 1)
 h = 0;
 }
 ```
+
+- [x] hola
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
